@@ -1,2 +1,0 @@
-# AprenderCoisaQueSeAprende
-Created with CodeSandbox
